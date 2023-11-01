@@ -1,0 +1,14 @@
+C:\Users\161PC\source\repos\EXwork\EXwork\bin\Debug\net6.0\EXwork.exe
+C:\Users\161PC\source\repos\EXwork\EXwork\bin\Debug\net6.0\EXwork.deps.json
+C:\Users\161PC\source\repos\EXwork\EXwork\bin\Debug\net6.0\EXwork.runtimeconfig.json
+C:\Users\161PC\source\repos\EXwork\EXwork\bin\Debug\net6.0\EXwork.dll
+C:\Users\161PC\source\repos\EXwork\EXwork\bin\Debug\net6.0\EXwork.pdb
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\EXwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\EXwork.AssemblyInfoInputs.cache
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\EXwork.AssemblyInfo.cs
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\EXwork.csproj.CoreCompileInputs.cache
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\EXwork.dll
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\refint\EXwork.dll
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\EXwork.pdb
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\EXwork.genruntimeconfig.cache
+C:\Users\161PC\source\repos\EXwork\EXwork\obj\Debug\net6.0\ref\EXwork.dll
